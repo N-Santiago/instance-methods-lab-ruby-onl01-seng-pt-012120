@@ -1,8 +1,10 @@
 class Person
   def walk
-    puts 
+    puts "The Person is walking"
+  end
 end
 
 adele_goldberg = Person.new 
 
 alan_kay = Person.new 
+
