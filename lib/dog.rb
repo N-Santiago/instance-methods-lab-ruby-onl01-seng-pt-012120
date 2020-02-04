@@ -8,4 +8,7 @@ snoopy = Dog.new
 lassie = Dog.new  
 
 def bark
-  puts 
+  puts "Woof!"
+end
+
+fido
